@@ -52,7 +52,7 @@ ol {
     justify-content: space-between;
     width: 754px;
     margin-top: 80px;
-    padding-bottom: 94px;
+    padding-bottom: 96px;
 }
 
 .stacks {
@@ -82,4 +82,6 @@ li >p {
 .html {
     color: red;
 }
+
+
 
