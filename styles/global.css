@@ -23,7 +23,7 @@
     --font-tertiary: "Maven pro", sans-serif;
 
     --h1: 800 56px/120% var(--font-primary);
-    --h2: 800 24px/120% var(--font-primary);
+    --h2: 600 24px/120% var(--font-primary);
     --h3: 800 16px/120% var(--font-primary);
     
     --text-lg: 400 20px/120% var(--font-secondary);
@@ -55,6 +55,17 @@ aside {
     background-color: var(--gray-100);
     align-items: center;
     justify-content: center;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    height: 787px;
+    background-color: var(--gray-200);
+    align-items: center;
+    background-image: url(assets/Background_Contacts.png);
+    background-position: center;
+    background-size: cover;
 }
 
 
