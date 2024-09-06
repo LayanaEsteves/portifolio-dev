@@ -48,4 +48,13 @@ main {
     align-items: center;
 }
 
+aside {
+    display: flex;
+    flex-direction: column;
+    height: 480px;
+    background-color: var(--gray-100);
+    align-items: center;
+    justify-content: center;
+}
+
 
